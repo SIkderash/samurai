@@ -1,5 +1,5 @@
-server running on port 8080
-run pg db on 5432
-pg username postgres
-pg database raemon
-pg password raemon
+server running on port 8080 <br>
+run pg db on 5432 <br>
+pg username postgres <br>
+pg database raemon <br>
+pg password raemon <br>
